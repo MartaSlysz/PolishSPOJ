@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8a3fca-544d-446a-a283-eda7242eb12b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/Algs/PRIME_T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/latwe/Algs/PRIME_T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/Algs/PTEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/latwe/Algs/PTEST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,26 +17,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/Algs/PTEST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/Algs/PRIME_T.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -102,6 +84,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PolishSPOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PolishSPOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="slyszmarta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PolishSPOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PolishSPOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="slyszmarta" type="462c0819:PsiDirectoryNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -110,8 +111,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="slyszmarta" type="462c0819:PsiDirectoryNode" />
               <item name="algs" type="462c0819:PsiDirectoryNode" />
-              <item name="Algs" type="462c0819:PsiDirectoryNode" />
+              <item name="latwe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,11 +142,11 @@
   </component>
   <component name="RunManager">
     <configuration name="PRIME_T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.slyszmarta.algs.Algs.PRIME_T" />
+      <option name="MAIN_CLASS_NAME" value="com.slyszmarta.algs.latwe.Algs.PRIME_T" />
       <module name="PolishSPOJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.slyszmarta.algs.Algs.*" />
+          <option name="PATTERN" value="com.slyszmarta.algs.latwe.Algs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,10 +174,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -184,7 +186,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,14 +290,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/Algs/PTEST.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/latwe/Algs/PTEST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/Algs/PRIME_T.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slyszmarta/algs/latwe/Algs/PRIME_T.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />

@@ -1,4 +1,4 @@
-package com.slyszmarta.algs.Algs;
+package com.slyszmarta.algs.latwe.Algs;
 
 import java.util.Scanner;
 
