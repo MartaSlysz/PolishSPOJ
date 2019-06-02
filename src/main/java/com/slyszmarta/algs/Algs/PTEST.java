@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PTEST {
 
     public static void main(String[] args) {
-        
+
         //do SPOJA należy wklejać bez SOUTów, goły algorytm
 
 //        System.out.println("Podaj liczbę A.");
