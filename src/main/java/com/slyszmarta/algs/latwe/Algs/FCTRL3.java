@@ -12,7 +12,7 @@ public class FCTRL3 {
         for(int i=0; i<x; i++) {
             y = in.nextInt();
             if(y<1) z=1;
-            if(y>20) z=0;
+            if(y>=10) z=0;
             else {
                 for(int j=1; j<=y; j++) {
                     z*=j;
