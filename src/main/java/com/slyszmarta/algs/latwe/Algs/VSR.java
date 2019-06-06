@@ -8,9 +8,10 @@ public class VSR {
         // t - number of tests
         int t = inputScanner.nextInt();
         int[] result = new int[t];
+        String[] numbers;
         inputScanner.nextLine();
         for (int i = 0; i < t; i++){
-            String [] numbers = inputScanner.nextLine().split( " " );
+            numbers = inputScanner.nextLine().split( " " );
             int v1 = Integer.parseInt(numbers[0]);
             int v2 = Integer.parseInt(numbers[1]);
             result[i] = (2*v2*v1)/(v1+v2);
