@@ -19,4 +19,6 @@
 
 1.9. POTSAM - https://pl.spoj.com/problems/POTSAM/
 
-1.10 PRZEDSZK - https://pl.spoj.com/problems/PRZEDSZK/" 
+1.10 PRZEDSZK - https://pl.spoj.com/problems/PRZEDSZK/
+
+1.11. SUMA - https://pl.spoj.com/problems/SUMA/" 
