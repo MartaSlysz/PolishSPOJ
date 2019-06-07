@@ -17,4 +17,6 @@
 
 1.8. PP0502B - https://pl.spoj.com/problems/PP0502B/
 
-1.9. POTSAM - https://pl.spoj.com/problems/POTSAM/" 
+1.9. POTSAM - https://pl.spoj.com/problems/POTSAM/
+
+1.10 PRZEDSZK - https://pl.spoj.com/problems/PRZEDSZK/" 
