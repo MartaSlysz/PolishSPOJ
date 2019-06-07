@@ -15,4 +15,6 @@
 
 1.7. KC001 - https://pl.spoj.com/problems/KC001/
 
-1.8. PP0502B - https://pl.spoj.com/problems/PP0502B/" 
+1.8. PP0502B - https://pl.spoj.com/problems/PP0502B/
+
+1.9. POTSAM - https://pl.spoj.com/problems/POTSAM/" 
