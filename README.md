@@ -21,4 +21,6 @@
 
 1.10 PRZEDSZK - https://pl.spoj.com/problems/PRZEDSZK/
 
-1.11. SUMA - https://pl.spoj.com/problems/SUMA/" 
+1.11. SUMA - https://pl.spoj.com/problems/SUMA/
+
+1.12. MWPZ06X - https://pl.spoj.com/problems/MWPZ06X/" 
