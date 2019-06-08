@@ -23,4 +23,6 @@
 
 1.11. SUMA - https://pl.spoj.com/problems/SUMA/
 
-1.12. MWPZ06X - https://pl.spoj.com/problems/MWPZ06X/" 
+1.12. MWPZ06X - https://pl.spoj.com/problems/MWPZ06X/
+
+1.13. CALC - https://pl.spoj.com/problems/CALC/" 
