@@ -25,4 +25,8 @@
 
 1.12. MWPZ06X - https://pl.spoj.com/problems/MWPZ06X/
 
-1.13. CALC - https://pl.spoj.com/problems/CALC/" 
+1.13. CALC - https://pl.spoj.com/problems/CALC/
+
+1.14. PTROL - https://pl.spoj.com/problems/PTROL/
+
+1.15. GLUTTON - https://pl.spoj.com/problems/GLUTTON/" 
