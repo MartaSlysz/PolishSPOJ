@@ -29,4 +29,6 @@
 
 1.14. PTROL - https://pl.spoj.com/problems/PTROL/
 
-1.15. GLUTTON - https://pl.spoj.com/problems/GLUTTON/" 
+1.15. GLUTTON - https://pl.spoj.com/problems/GLUTTON/
+
+1.16. PA05_POT - https://pl.spoj.com/problems/PA05_POT/" 
