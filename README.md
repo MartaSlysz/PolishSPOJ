@@ -35,4 +35,6 @@
 
 1.17 POL - https://pl.spoj.com/problems/POL/
 
-1.18. PP0601B - https://pl.spoj.com/problems/PP0601B/" 
+1.18. PP0601B - https://pl.spoj.com/problems/PP0601B/
+
+1.19. ETI06F1 - https://pl.spoj.com/problems/ETI06F1/" 
