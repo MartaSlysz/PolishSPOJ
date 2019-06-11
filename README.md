@@ -31,4 +31,6 @@
 
 1.15. GLUTTON - https://pl.spoj.com/problems/GLUTTON/
 
-1.16. PA05_POT - https://pl.spoj.com/problems/PA05_POT/" 
+1.16. PA05_POT - https://pl.spoj.com/problems/PA05_POT/
+
+1.17 POL - https://pl.spoj.com/problems/POL/" 
