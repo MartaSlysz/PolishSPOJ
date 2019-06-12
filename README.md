@@ -41,4 +41,6 @@
 
 1.20. PP0602A - https://pl.spoj.com/problems/PP0602A/
 
-1.21. JPESEL - https://pl.spoj.com/problems/JPESEL/" 
+1.21. JPESEL - https://pl.spoj.com/problems/JPESEL/
+
+1.22. EUCGAME - https://pl.spoj.com/problems/EUCGAME/" 
