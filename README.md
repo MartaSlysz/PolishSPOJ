@@ -39,4 +39,6 @@
 
 1.19. ETI06F1 - https://pl.spoj.com/problems/ETI06F1/
 
-1.20. PP0602A - https://pl.spoj.com/problems/PP0602A/" 
+1.20. PP0602A - https://pl.spoj.com/problems/PP0602A/
+
+1.21. JPESEL - https://pl.spoj.com/problems/JPESEL/" 
