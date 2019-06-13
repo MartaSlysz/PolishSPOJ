@@ -43,4 +43,6 @@
 
 1.21. JPESEL - https://pl.spoj.com/problems/JPESEL/
 
-1.22. EUCGAME - https://pl.spoj.com/problems/EUCGAME/" 
+1.22. EUCGAME - https://pl.spoj.com/problems/EUCGAME/
+
+1.23. FLAMASTE - https://pl.spoj.com/problems/FLAMASTE/" 
