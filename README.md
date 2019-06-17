@@ -49,4 +49,6 @@
 
 1.24. ROWNANIE - https://pl.spoj.com/problems/ROWNANIE/
 
-1.25. TABLICA - https://pl.spoj.com/problems/TABLICA/" 
+1.25. TABLICA - https://pl.spoj.com/problems/TABLICA/
+
+1.26. JROWLIN - https://pl.spoj.com/problems/JROWLIN/" 
