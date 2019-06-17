@@ -45,4 +45,6 @@
 
 1.22. EUCGAME - https://pl.spoj.com/problems/EUCGAME/
 
-1.23. FLAMASTE - https://pl.spoj.com/problems/FLAMASTE/" 
+1.23. FLAMASTE - https://pl.spoj.com/problems/FLAMASTE/
+
+1.24. ROWNANIE - https://pl.spoj.com/problems/ROWNANIE/" 
