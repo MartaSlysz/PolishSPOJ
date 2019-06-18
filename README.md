@@ -51,4 +51,7 @@
 
 1.25. TABLICA - https://pl.spoj.com/problems/TABLICA/
 
-1.26. JROWLIN - https://pl.spoj.com/problems/JROWLIN/" 
+1.26. JROWLIN - https://pl.spoj.com/problems/JROWLIN/
+
+1.27. PTCLTZ - https://pl.spoj.com/problems/PTCLTZ/" 
+
