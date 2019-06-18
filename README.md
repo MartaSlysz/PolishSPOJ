@@ -53,5 +53,7 @@
 
 1.26. JROWLIN - https://pl.spoj.com/problems/JROWLIN/
 
-1.27. PTCLTZ - https://pl.spoj.com/problems/PTCLTZ/" 
+1.27. PTCLTZ - https://pl.spoj.com/problems/PTCLTZ/
+
+1.28. PP0602D - https://pl.spoj.com/problems/PP0602D/" 
 
