@@ -63,5 +63,7 @@
 
 1.31. PP0601A2 - https://pl.spoj.com/problems/PP0601A2/
 
-1.32. KC003 - https://pl.spoj.com/problems/KC003/" 
+1.32. KC003 - https://pl.spoj.com/problems/KC003/
+
+1.33. DOUGHNUT - https://pl.spoj.com/problems/DOUGHNUT/" 
 
