@@ -55,5 +55,7 @@
 
 1.27. PTCLTZ - https://pl.spoj.com/problems/PTCLTZ/
 
-1.28. PP0602D - https://pl.spoj.com/problems/PP0602D/" 
+1.28. PP0602D - https://pl.spoj.com/problems/PP0602D/
+
+1.29. CALC2 - https://pl.spoj.com/problems/CALC2/" 
 
