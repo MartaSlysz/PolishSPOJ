@@ -57,5 +57,7 @@
 
 1.28. PP0602D - https://pl.spoj.com/problems/PP0602D/
 
-1.29. CALC2 - https://pl.spoj.com/problems/CALC2/" 
+1.29. CALC2 - https://pl.spoj.com/problems/CALC2/
+
+1.30. TRN - https://pl.spoj.com/problems/TRN/" 
 
