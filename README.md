@@ -61,5 +61,7 @@
 
 1.30. TRN - https://pl.spoj.com/problems/TRN/
 
-1.31. PP0601A2 - https://pl.spoj.com/problems/PP0601A2/" 
+1.31. PP0601A2 - https://pl.spoj.com/problems/PP0601A2/
+
+1.32. KC003 - https://pl.spoj.com/problems/KC003/" 
 
