@@ -59,5 +59,7 @@
 
 1.29. CALC2 - https://pl.spoj.com/problems/CALC2/
 
-1.30. TRN - https://pl.spoj.com/problems/TRN/" 
+1.30. TRN - https://pl.spoj.com/problems/TRN/
+
+1.31. PP0601A2 - https://pl.spoj.com/problems/PP0601A2/" 
 
