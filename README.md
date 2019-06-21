@@ -67,5 +67,7 @@
 
 1.33. DOUGHNUT - https://pl.spoj.com/problems/DOUGHNUT/
 
-1.34. KC009 - https://pl.spoj.com/problems/KC009/" 
+1.34. KC009 - https://pl.spoj.com/problems/KC009/
+
+1.35. PP0504B - https://pl.spoj.com/problems/PP0504B/" 
 
