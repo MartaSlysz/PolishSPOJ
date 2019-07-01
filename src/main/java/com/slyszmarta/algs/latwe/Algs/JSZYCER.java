@@ -20,7 +20,7 @@ public class JSZYCER {
         for (int i = 0; i < sb.length(); i++){
             int c = (int)sb.charAt(i);
             if (c+distance >90){
-                c = 65+(distance - (90-c))-1;
+                c = 64+(distance - (90-c));
             } else if (c+distance<= 90 && c+distance>=65) {
                 c+= distance;
             }

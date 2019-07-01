@@ -71,5 +71,7 @@
 
 1.35. PP0504B - https://pl.spoj.com/problems/PP0504B/
 
-1.36. JSZYCER - https://pl.spoj.com/problems/JSZYCER/" 
+1.36. JSZYCER - https://pl.spoj.com/problems/JSZYCER/
+
+1.37. STOS - https://pl.spoj.com/problems/STOS/" 
 
