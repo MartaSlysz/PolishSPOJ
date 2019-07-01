@@ -69,5 +69,7 @@
 
 1.34. KC009 - https://pl.spoj.com/problems/KC009/
 
-1.35. PP0504B - https://pl.spoj.com/problems/PP0504B/" 
+1.35. PP0504B - https://pl.spoj.com/problems/PP0504B/
+
+1.36. JSZYCER - https://pl.spoj.com/problems/JSZYCER/" 
 
