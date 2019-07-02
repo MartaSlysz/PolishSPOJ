@@ -75,5 +75,7 @@
 
 1.37. STOS - https://pl.spoj.com/problems/STOS/
 
-1.38. SKARBFI - https://pl.spoj.com/problems/SKARBFI/" 
+1.38. SKARBFI - https://pl.spoj.com/problems/SKARBFI/
+
+1.39. BFN1 - https://pl.spoj.com/problems/BFN1/" 
 
