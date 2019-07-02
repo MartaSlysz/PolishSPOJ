@@ -73,5 +73,7 @@
 
 1.36. JSZYCER - https://pl.spoj.com/problems/JSZYCER/
 
-1.37. STOS - https://pl.spoj.com/problems/STOS/" 
+1.37. STOS - https://pl.spoj.com/problems/STOS/
+
+1.38. SKARBFI - https://pl.spoj.com/problems/SKARBFI/" 
 
