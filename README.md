@@ -79,5 +79,7 @@
 
 1.39. BFN1 - https://pl.spoj.com/problems/BFN1/
 
-1.40. JWSPLIN- https://pl.spoj.com/problems/JWSPLIN/" 
+1.40. JWSPLIN- https://pl.spoj.com/problems/JWSPLIN/
+
+1.41. KC004 - https://pl.spoj.com/problems/KC004/" 
 
