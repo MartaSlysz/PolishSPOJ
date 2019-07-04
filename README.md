@@ -33,7 +33,7 @@
 
 1.16. PA05_POT - https://pl.spoj.com/problems/PA05_POT/
 
-1.17 POL - https://pl.spoj.com/problems/POL/
+1.17. POL - https://pl.spoj.com/problems/POL/
 
 1.18. PP0601B - https://pl.spoj.com/problems/PP0601B/
 
@@ -83,5 +83,7 @@
 
 1.41. KC004 - https://pl.spoj.com/problems/KC004/
 
-1.42. JZLICZ - https://pl.spoj.com/problems/JZLICZ/" 
+1.42. JZLICZ - https://pl.spoj.com/problems/JZLICZ/
+
+1.43. PP0604A - https://pl.spoj.com/problems/PP0604A/" 
 
