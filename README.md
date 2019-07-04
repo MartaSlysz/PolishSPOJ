@@ -81,5 +81,7 @@
 
 1.40. JWSPLIN- https://pl.spoj.com/problems/JWSPLIN/
 
-1.41. KC004 - https://pl.spoj.com/problems/KC004/" 
+1.41. KC004 - https://pl.spoj.com/problems/KC004/
+
+1.42. JZLICZ - https://pl.spoj.com/problems/JZLICZ/" 
 
